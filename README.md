@@ -1,4 +1,4 @@
-# Koperasi
+# padiBot
 
 Repository berikut adalah software untuk PadiBot.
 Yaitu bot telegram yang merespon perintah untuk mendapatkan info ticket, survey dari padiApp.
